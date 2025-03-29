@@ -1,0 +1,1 @@
+for f in *.py; do echo "pm2 start $f --interpreter=python3.10 &"; done

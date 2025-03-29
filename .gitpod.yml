@@ -1,0 +1,4 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - command: /home/gitpod/.pyenv/versions/3.10.1/bin/python3.10 -m pip install -r requirements.txt

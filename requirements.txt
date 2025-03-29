@@ -1,0 +1,4 @@
+gspread==5.3.2
+naff==1.8.1
+naff_audio==1.2.0
+requests==2.26.0
